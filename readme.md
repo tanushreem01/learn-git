@@ -1,6 +1,7 @@
-#Learn Git and Github
+# Learn Git and Github
 
-```
-Javascript
+learning to write readme markdown
+
+```javascript
 console.log("this is a readme file for this repo");
 ```
